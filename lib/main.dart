@@ -22,13 +22,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-
-
-/* 
-void main() {
-  runApp(DevicePreview(
-    builder: (context) => const MyApp(),
-  ));
-}
- */

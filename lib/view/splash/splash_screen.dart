@@ -51,7 +51,7 @@ class SplashScreen extends StatelessWidget {
                       TyperAnimatedText(
                         "Explore Your Favorite Journey",
                         speed: const Duration(milliseconds: 100),
-                        textStyle: GoogleFonts.poppins(
+                        textStyle: TextStyle(
                           fontSize: 32.sp,
                           fontWeight: FontWeight.w600,
                           color: AppColors.kWhiteColor,
